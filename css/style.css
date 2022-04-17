@@ -1,0 +1,39 @@
+body {
+  background-color: #06113C;
+}
+hr {
+  border-color: #FF8C32;
+  background-color: #06113C;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 5%;
+}
+h1 {
+  color:#FF8C32;
+  font-family: Arial;
+}
+h3 {
+  color: #FF8C32;
+  font-family: Arial;
+}
+p {
+  color: #DDDDDD;
+  font-family: Arial;
+}
+ol {
+  color: #DDDDDD;
+  font-family: Arial;
+}
+ul {
+  color: #DDDDDD;
+  font-family: Arial;
+}
+table {
+  color: #DDDDDD;
+  font-family: Arial;
+}
+a {
+ color: #FF8C32;
+ font-family: Arial;
+}
